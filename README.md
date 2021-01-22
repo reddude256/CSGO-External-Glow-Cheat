@@ -1,5 +1,5 @@
 # CSGO-External-Glow-Cheat
-Auto updates the offsets from Hazedumper
+Auto updates the offsets from Hazedumper.
 
 Undetected From VAC
 
