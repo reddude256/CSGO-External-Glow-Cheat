@@ -1,2 +1,2 @@
 # CSGO-External-Glow-Cheat
-Auto updates offsets from Hazedumper
+Auto updates the offsets from Hazedumper
